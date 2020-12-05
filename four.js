@@ -17,7 +17,7 @@ function fibonacci(nub) {
     let n1 = 1;
     let n2 = 1; 
     let f;
-    
+
     if(n == 1 || n == 2) {
         return 1;
     }
